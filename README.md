@@ -1,2 +1,2 @@
 # CompMM
-# A computational code for magnetic materials 
+# Computational codes for Magnetic Materials 
